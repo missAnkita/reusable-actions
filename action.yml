@@ -1,4 +1,4 @@
-name: 'Hello missAnkita'
+name: 'Hello World Action'
 description: 'Greet someone'
 inputs:
   who-to-greet:  # id of input
